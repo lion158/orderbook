@@ -5,3 +5,6 @@ To create based database run in terminal:
 * `.read database.sql`
 * `.schema` to check if table exist
 * `SELECT * FROM orders;` to check based data
+
+
+Use `notebook.ipynb` to find implementation.
